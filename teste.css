@@ -1,0 +1,22 @@
+.ajuste{
+    display: table;
+    max-width: 100%;
+    width: 70%;
+}
+
+.marginajuste{
+    margin-bottom: 10px;}
+
+.bgred{
+    background: red;
+}
+
+.bgblue{
+    background: blue;
+}
+
+.tamanhoBotao{
+    width: 150px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
