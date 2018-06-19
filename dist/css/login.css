@@ -1,0 +1,29 @@
+#form-container{
+    width:100vw;
+    height: 100vh;
+   /* background: #6C7A89; */
+    background: rgb(0,166,90);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#form-box{
+    width: 300px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+h1 .text-center {
+    margin-bottom: 10px;
+}
+.logo{
+   	-moz-text-shadow: 5px 5px 10px green, -5px -5px 5px green;
+	-webkit-text-shadow: 5px 5px 10px green, -5px -5px 5px green;
+	/*text-shadow: 5px 5px 10px green, -5px -5px 5px green; */
+    margin-bottom: 30px;
+}
+.marginajuste {
+    margin-left: 8%;
+}
